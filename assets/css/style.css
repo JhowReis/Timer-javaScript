@@ -57,3 +57,7 @@ form button:hover {
 .time {
     font-size: 3em;
 }
+
+.stopped{
+  color: red;
+}
